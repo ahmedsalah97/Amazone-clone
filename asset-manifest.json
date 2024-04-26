@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/Amazone-clone/static/css/main.183ea220.css",
+    "main.js": "/Amazone-clone/static/js/main.c32b1ced.js",
+    "static/css/689.487a41f6.chunk.css": "/Amazone-clone/static/css/689.487a41f6.chunk.css",
+    "static/js/689.8252d86c.chunk.js": "/Amazone-clone/static/js/689.8252d86c.chunk.js",
+    "static/css/181.a7012141.chunk.css": "/Amazone-clone/static/css/181.a7012141.chunk.css",
+    "static/js/181.0fc701a8.chunk.js": "/Amazone-clone/static/js/181.0fc701a8.chunk.js",
+    "static/media/2.png": "/Amazone-clone/static/media/2.0f5bc477d58244e1dbf1.png",
+    "static/media/6.png": "/Amazone-clone/static/media/6.ff4f8692e4e7bb08800a.png",
+    "static/media/1.png": "/Amazone-clone/static/media/1.f039a27703de29c4ec4c.png",
+    "static/media/5.png": "/Amazone-clone/static/media/5.f6c0dff37b8454f105e6.png",
+    "static/media/3.png": "/Amazone-clone/static/media/3.0f5c91bd9cf7ac7b382f.png",
+    "static/media/home.jpg": "/Amazone-clone/static/media/home.37e38a1c83060cf8ec40.jpg",
+    "static/media/login-logo.png": "/Amazone-clone/static/media/login-logo.808bf88ddaba0301ceca.png",
+    "static/media/header-logo.png": "/Amazone-clone/static/media/header-logo.1c9be0b254d3ff1dc9e9.png",
+    "static/media/4.png": "/Amazone-clone/static/media/4.627bf584cf285f25e5c2.png",
+    "static/media/checkoutAd.jpg": "/Amazone-clone/static/media/checkoutAd.b842b1e4bb0cc75ce652.jpg",
+    "index.html": "/Amazone-clone/index.html",
+    "main.183ea220.css.map": "/Amazone-clone/static/css/main.183ea220.css.map",
+    "main.c32b1ced.js.map": "/Amazone-clone/static/js/main.c32b1ced.js.map",
+    "689.487a41f6.chunk.css.map": "/Amazone-clone/static/css/689.487a41f6.chunk.css.map",
+    "689.8252d86c.chunk.js.map": "/Amazone-clone/static/js/689.8252d86c.chunk.js.map",
+    "181.a7012141.chunk.css.map": "/Amazone-clone/static/css/181.a7012141.chunk.css.map",
+    "181.0fc701a8.chunk.js.map": "/Amazone-clone/static/js/181.0fc701a8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.183ea220.css",
+    "static/js/main.c32b1ced.js"
+  ]
+}
